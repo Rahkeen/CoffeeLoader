@@ -2,6 +2,8 @@
 
 I wired up a really dope coffee loader by [@JcToon](https://twitter.com/HelloJcToon) using the Rive Runtime for Android.
 
+https://user-images.githubusercontent.com/2228493/220188397-13fc9716-97a6-4d31-95cb-260a7944a3ef.mp4
+
 ### Controls
 Drag up and down on the screen to change the progress of the loader
 
